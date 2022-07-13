@@ -1,0 +1,23 @@
+title {
+    color: blue;
+    font-size: 50px;
+}
+.about {
+    color:green;
+    font-size: 25px;
+}
+body{
+    background-color:coral;
+}
+#Greet {
+    color: blue;
+    font-size: 20px;
+}
+h1 {
+    color: blue;    
+    font-size: 40px ;
+}
+h2 {
+    color: chartreuse;
+    font-size: 35px;
+}
