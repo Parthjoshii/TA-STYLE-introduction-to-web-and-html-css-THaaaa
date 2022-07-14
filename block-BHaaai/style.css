@@ -1,0 +1,35 @@
+body {
+    background-color: darkblue;
+}
+h1 {
+    font-size: 40px;
+    color: white;
+    text-align: center;
+}
+#info {
+    color: white;
+    font-size: 15px;
+    text-align: center;    
+}
+.topic {
+    color: green;
+    font-size: 30px;
+}
+.jobs {
+    color: white;
+    font-size: 25px;
+}
+.work {
+    color: white;
+    font-size: 15px;
+}
+address {
+    color: red;
+    font-size: 15px;    
+}
+.image {
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    display: block;
+}
